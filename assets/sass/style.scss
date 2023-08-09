@@ -12,6 +12,7 @@
 @import "./components/blogcards";
 @import "./components/button";
 @import "./components/form";
+@import "./components/composition";
 
 @import "./layouts/header";
 @import "./layouts/grid";
@@ -19,7 +20,7 @@
 @import "./layouts/navigation";
   
 @import "./pages/about";  
-@import "./pages/home";
+@import "./pages/home"; 
 @import "./pages/blogs";
 @import "./pages/services";
 @import "./pages/contact";
